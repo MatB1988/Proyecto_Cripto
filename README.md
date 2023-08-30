@@ -2,7 +2,67 @@
 <img src ="https://i.ibb.co/kM7qWsS/logo1.png">
 <p>
 
-# <h1 align="center">**`Cryptocurrency Market Data Analytics`**</h1>
+# Análisis del Mercado de Criptomonedas
+
+## Introducción
+- Objetivo del proyecto
+- Criptomonedas seleccionadas
+
+## Criptomonedas Seleccionadas
+1. Bitcoin (BTC)
+2. Ethereum (ETH)
+3. Cardano (ADA)
+4. Binance Coin (BNB)
+5. Solana (SOL)
+6. Ripple (XRP)
+7. Polkadot (DOT)
+8. Dogecoin (DOGE)
+9. Avalanche (AVAX)
+10. Algorand (ALGO)
+
+## Proceso de Análisis
+- Origen de los datos
+- Herramientas utilizadas (Python, Power BI)
+- ETL y EDA
+
+## Desarrollo del Tablero
+- Segmentación y filtros
+- Indicadores Clave de Rendimiento (KPIs)
+  - Variación de Precio
+  - Volumen Mediana vs. Volumen Promedio
+  - MarketCap Mediana vs. MarketCap Promedio
+- Visualizaciones
+  - Gráfico de Cascada de Capitalización de Mercado
+  - Lista de Precios Promedio
+  - Suma de Volumen por Día
+  - Suma de Precio por Día
+  - Suma de Capitalización de Mercado por Día
+  - Gráfico de Dispersión Precio vs. Capitalización de Mercado
+  - Gráfico de Dispersión Precio vs. Volumen
+
+## Conclusiones Finales
+- Naturaleza especulativa de las criptomonedas
+- Diferencia entre criptomonedas y activos tradicionales
+- Cautelas y riesgos en la inversión en criptomonedas
+- Valor de la tecnología subyacente (blockchain y contratos inteligentes)
+
+## Enlace al Análisis Detallado
+- [Enlace al archivo de ETL]([Notebooks/ETL.ipynb](https://github.com/MatB1988/Proyecto_Cripto/blob/c9e54201f21c1f06618002b89eeca73c3233cc8d/Notebooks/ETL.ipynb))
+
+## Enlace al Análisis Detallado
+- [Enlace al archivo de EDA](https://github.com/MatB1988/Proyecto_Cripto/blob/0437c223264b034036111c04eabdf337afb23457/Notebooks/EDA.IPYNB)
+
+## Imágenes del Tablero
+- [Enlace a las imágenes del tablero]((https://github.com/MatB1988/Proyecto_Cripto/tree/c9e54201f21c1f06618002b89eeca73c3233cc8d/Imagenes)) 
+
+## Imágenes del Tablero
+- [Enlace al video del tablero]((https://github.com/MatB1988/Proyecto_Cripto/blob/c9e54201f21c1f06618002b89eeca73c3233cc8d/Video/final%20tablero%20cripto.mp4)) 
+
+
+
+
+
+# <h1 align="center">**`Análisis del Mercado de Criptomonedas`**</h1>
 
 
 ¡Bienvenidos! En el marco de este proyecto, se me ha encomendado realizar un análisis exhaustivo del mercado de las criptomonedas, centrándome en las diez criptomonedas de mayor relevancia en la actualidad.
