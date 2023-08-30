@@ -47,16 +47,16 @@
 - Valor de la tecnología subyacente (blockchain y contratos inteligentes)
 
 ## Enlace al Análisis Detallado
-- [Enlace al archivo de ETL]([Notebooks/ETL.ipynb](https://github.com/MatB1988/Proyecto_Cripto/blob/c9e54201f21c1f06618002b89eeca73c3233cc8d/Notebooks/ETL.ipynb))
+- [Enlace al archivo de ETL]((https://github.com/MatB1988/Proyecto_Cripto/blob/c9e54201f21c1f06618002b89eeca73c3233cc8d/Notebooks/ETL.ipynb))
 
 ## Enlace al Análisis Detallado
 - [Enlace al archivo de EDA](https://github.com/MatB1988/Proyecto_Cripto/blob/0437c223264b034036111c04eabdf337afb23457/Notebooks/EDA.IPYNB)
 
 ## Imágenes del Tablero
-- [Enlace a las imágenes del tablero]((https://github.com/MatB1988/Proyecto_Cripto/tree/c9e54201f21c1f06618002b89eeca73c3233cc8d/Imagenes)) 
+- [Enlace a las imágenes del tablero](https://github.com/MatB1988/Proyecto_Cripto/tree/c9e54201f21c1f06618002b89eeca73c3233cc8d/Imagenes) 
 
 ## Imágenes del Tablero
-- [Enlace al video del tablero]((https://github.com/MatB1988/Proyecto_Cripto/blob/c9e54201f21c1f06618002b89eeca73c3233cc8d/Video/final%20tablero%20cripto.mp4)) 
+- [Enlace al video del tablero](https://github.com/MatB1988/Proyecto_Cripto/blob/c9e54201f21c1f06618002b89eeca73c3233cc8d/Video/final%20tablero%20cripto.mp4)
 
 
 
